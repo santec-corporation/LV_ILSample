@@ -44,3 +44,4 @@
    - [ English Manual ](https://github.com/santec-corporation/LV_ILSample/blob/main/LV_Santec%20IL%20Swept%20Test%20System%20Manual%20V1.0_EN_20231009.pdf)
    - [ Chinese Manual ](https://github.com/santec-corporation/LV_ILSample/blob/main/LV_Santec.IL.Swept.Test.System.Manual.V1.0_CH_20230419.pdf)
  
+## For more information on Swept Test System [CLICK HERE](https://inst.santec.com/products/componenttesting/sts)
