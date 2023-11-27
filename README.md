@@ -1,9 +1,9 @@
-<p align="right"> <a href="https://www.santec.com/jp/" target="_blank" rel="noreferrer"> <img src="https://www.santec.com/dcms_media/image/common_logo01.png" alt="santec" 
+<p align="right"> <a href="https://www.santec.com/en/" target="_blank" rel="noreferrer"> <img src="https://www.santec.com/dcms_media/image/common_logo01.png" alt="santec" 
   width="250" height="45"/> </a> </p>
 
 
 # LV_ILSample
- The insertion loss test software is developed using Labview.
+ This is an Insertion Loss test software developed using Labview.
 
 ## List of content
 
