@@ -26,4 +26,7 @@
 ![image](https://github.com/santec-corporation/LV_ILSample/assets/132535077/36b95854-ef77-4b9e-8bdf-37d2c5dacac4)
 
 3. Operational steps  
-    Refere to the Manual [Here](https://github.com/santec-corporation/LV_ILSample/files/11934355/LV_Santec.IL.Swept.Test.System.Manual.V1.0_CH_20230419.docx)
+    Refere to the Manual,
+   - English Manual : [Here](https://github.com/santec-corporation/LV_ILSample/blob/main/LV_Santec%20IL%20Swept%20Test%20System%20Manual%20V1.0_EN_20231009.pdf)
+   - Chinese Manual : [Here](https://github.com/santec-corporation/LV_ILSample/blob/main/LV_Santec.IL.Swept.Test.System.Manual.V1.0_CH_20230419.pdf)
+ 
